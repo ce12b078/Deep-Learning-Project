@@ -1,5 +1,6 @@
 # Deep-Learning-Project
 **Hand written digit classifier using Convolutional Neural Network**
+Our goal is to correctly identify digits from a dataset of tens of thousands of handwritten images. The data contains gray-scale images of hand-drawn digits, from zero through nine. Each image is 28 pixels in height and 28 pixels in width, for a total of 784 pixels in total. Each pixel has a single pixel-value associated with it, indicating the lightness or darkness of that pixel, with higher numbers meaning darker. This pixel-value is an integer between 0 and 255, inclusive.
 
 **We will use following three codes:**
 **1_CNN_tuning_hyperparameters:** In the first code, we will start with a CNN with randomly selected hyper parameters. Thereafter we will tune these hyper parameters in three steps.
